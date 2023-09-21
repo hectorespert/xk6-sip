@@ -10,4 +10,4 @@ xk6 build --with xk6-sip=.
 
 ```bash
 ./k6 run test.js
-``
+```
